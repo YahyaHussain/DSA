@@ -71,26 +71,25 @@ Therefore, number of digits = 5.
 ### Solution 2
 
 **Better Solution:** A better solution is to use mathematics to solve this problem. The number of digits in a number say N can be easily obtained by using the formula:
-<br>
-```number of digits in N = log10(N) + 1.```
 
-*Derivation:* Suppose the number of digits in the number **N** is **K**.
+Number of digits in N = $```log_{10}(N) + 1```$.
+
+**Derivation:** Suppose the number of digits in the number **N** is **K**.
 
 Therefore, we can say that:
 <br>
-```10K-1 <= N < 10K```
+$```10^{K-1} <= N < 10^K```$
 
 Applying base-10 logarithm to both sides in the above equation, we get:
 <br>
-```
-K-1 <= log10(N) < K.
+$```K-1 <= log_{10}(N) < K.```$ <br>
 
-or, K - 1 + 1 <= log10(N) + 1 < K + 1
-or, K <= log10(N) + 1 < K + 1
-```
+$```or, K - 1 + 1 <= log_{10}(N) + 1 < K + 1```$ <br>
+$```or, K <= log_{10}(N) + 1 < K + 1```$ <br>
+
 Therefore,
 <br>
-```K = floor(log10(N) + 1)```
+$```K = floor(log_{10}(N) + 1)```$
 
 **Analysis of above algorithm:** Since the above algorithm works in a single operation by using two mathematical operations i.e., finding logarithmic and floor value. Therefore, the time complexity of the solution is **O(1)**.
 
@@ -105,7 +104,7 @@ A sequence of numbers is said to be in an Arithmetic progression if the differen
 1. **Common difference:** The value by which consecutive terms increase or decrease is called the common difference.
 1. The behavior of the arithmetic progression depends on the common difference d. If the common difference is positive, then the members (terms) will grow towards positive infinity, but if the common difference is negative, then the members (terms) will grow towards negative infinity.
 
-**Formula of nth term of an A.P:**
+**Formula of $n^th$ term of an A.P:**
 <br>
 If 'a' is the initial term and 'd' is the common difference. Thus, the explicit formula is:
 <br>
@@ -124,9 +123,9 @@ $d$ &rarr; common difference <br>
 $n$ &rarr; Number of terms
 
 **General Formulas to solve problems related to Arithmetic Progressions:** If 'a' is the first term and 'd' is the common difference:
-* **nth term** of an AP = a + (n-1)*d.
-* **Arithmetic Mean** = Sum of all terms in the AP / Number of terms in the AP.
-* **Sum of 'n' terms** of an AP = 0.5 n (first term + last term) = 0.5 n [ 2a + (n-1) d ].
+* **nth term** of an AP = $a + (n-1)d$.
+* **Arithmetic Mean** = $\frac{Sum of all terms in the AP}{Number of terms in the AP}$.
+* **Sum of 'n' terms** of an AP = $0.5n(first term + last term)$ = $0.5n[2a + (n - 1)d]$.
 
 ### Geometric Progression
 
@@ -145,7 +144,7 @@ A sequence of numbers is said to be in a **Geometric progression** if the ratio 
    * -1, the progression is an alternating sequence.
    * Less than -1, for the absolute values there is exponential growth towards (unsigned) infinity, due to the alternating sign.
 
-**Formula of nth term of a Geometric Progression:** If 'a' is the first term and 'r' is the common ratio. Thus, the explicit formula is:
+**Formula of $n^th$ term of a Geometric Progression:** If 'a' is the first term and 'r' is the common ratio. Thus, the explicit formula is:
 <br>
 $$a_n = a_1 * r^{n - 1}$$
 $a_n$ &rarr; General term <br>
