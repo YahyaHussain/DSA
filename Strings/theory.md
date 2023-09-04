@@ -145,7 +145,7 @@ There are two ways to create string in Java:
 * **String concat( String str):** Concatenates specified string to the end of this string.
 ```
 String s1 = "Yahya";
-String s2 = Hussain;
+String s2 = "Hussain";
 String output = s1.concat(s2); // returns "YahyaHussain"
 ```
 * **int indexOf (String s):** Returns the index within the string of the first occurrence of the specified string.
