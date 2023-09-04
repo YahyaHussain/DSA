@@ -176,19 +176,24 @@ Boolean out = “Geeks”.equalsIgnoreCase(“geeks”); // returns true
 * **int compareTo( String anotherString):** Compares two string lexicographically.
 ```
 int out = s1.compareTo(s2);  // where s1 ans s2 are strings to be compared
+
+/*
   This returns difference s1-s2. If :
   out < 0  // s1 comes before s2
   out = 0  // s1 and s2 are equal.
   out > 0   // s1 comes after s2.
+*/
 ```
 * **int compareToIgnoreCase( String anotherString):** Compares two string lexicographically, ignoring case considerations.
 ```
-int out = s1.compareToIgnoreCase(s2);  
-// where s1 ans s2 are strings to be compared
+int out = s1.compareToIgnoreCase(s2); // where s1 ans s2 are strings to be compared
+
+/*
   This returns difference s1-s2. If :
   out < 0  // s1 comes before s2
   out = 0   // s1 and s2 are equal.
   out > 0   // s1 comes after s2.
+*/
 ```
 *Note-* In this case, it will not consider case of a letter *(it will ignore whether it is uppercase or lowercase)*.
 * **String toLowerCase():** Converts all the characters in the String to lower case.
