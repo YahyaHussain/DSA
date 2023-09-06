@@ -163,14 +163,14 @@ A **quadratic equation** is a second-order polynomial equation of a variable say
 
 $```ax^2 + bx + c = 0```$
 
-Where a,b and c are real known values and, $a$ can't be zero.
+Where $a$, $b$ and $c$ are real known values and, $a$ can't be zero.
 
 **Roots of an Equation:** The roots of an equation are the values for which the equation satisfies the given condition. For Example, the roots of equation $x^2 - 7x - 12 = 0$ are $3$ and $4$ respectively. If we replace the value of $x$ by $3$ and $4$ individually in the equation, the equation will evaluate to zero.
 
 *A quadratic equation has two roots.* The roots of a quadratic equation can be easily obtained by using the quadratic formula:
 $$roots = \frac{-b ± \sqrt{(b^2 - 4ac)}}{2a}$$
 
-**Derivation:**
+**Derivation:** <br>
 $ax^2 + bx + c = 0$
 
 or, $ax^2 + bx = -c$
