@@ -117,7 +117,7 @@ $n$ &rarr; Number of terms
 
 **General Formulas to solve problems related to Arithmetic Progressions:** If 'a' is the first term and 'd' is the common difference:
 * **nth term** of an AP = $a + (n-1)d$.
-* **Arithmetic Mean** = $\frac{Sum of all terms in the AP}{Number of terms in the AP}$.
+* **Arithmetic Mean** = ${Sum of all terms in the AP \over Number of terms in the AP}$.
 * **Sum of 'n' terms** of an AP = $0.5n(first term + last term)$ = $0.5n[2a + (n - 1)d]$.
 
 ### Geometric Progression
@@ -160,7 +160,6 @@ If 'a' is the first term and 'r' is the common ratio:
 ## Quadratic Equations
 
 A **quadratic equation** is a second-order polynomial equation of a variable say **x**. The general form of a quadratic equation is given as: <br>
-
 $```ax^2 + bx + c = 0```$
 
 Where $a$, $b$ and $c$ are real known values and, $a$ can't be zero.
@@ -175,11 +174,11 @@ $ax^2 + bx + c = 0$
 
 or, $ax^2 + bx = -c$
 
-or, $x^2 + (\frac{b}{a})x = -\fract{c}{a}$
+or, $x^2 + (\frac{b}{a})x = -(\frac{c}{a})$
 
-or, $x^2 + (b/a)x + (b^2/4a^2) - (b^2/4a^2) = -(c/a)$
+or, $x^2 + (\frac{b}{a})x + (\frac{b^2}{4a^2}) - (\frac{b^2}{4a^2}) = -(\frac{c}{a})$
 
-or, $x^2 + (b/a)x + (b2/4a2) = -(c/a) + (b^2/4a^2)$
+or, $x^2 + (\frac{b}{a})x + (\frac{b^2}{4a^2}) = -(\frac{c}{a})x + (\frac{b^2}{4a^2})$
 
 or, $(x + b/2a)^2  = -(c/a) + (b^2/4a^2)$
 
