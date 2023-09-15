@@ -8,20 +8,20 @@ Different programming languages have different ways of declaring and using Strin
 ## Strings in C/C++
 
 In C/C++, Strings are defined as an array of characters. 
-The difference between a character array and a string is that the string is terminated with a special character ‘\0’.
+The difference between a character array and a string is that the string is terminated with a special character '\0'.
 
-**Declaring Strings:** 
+**Declaring Strings:** <br>
 Declaring a string is as simple as declaring a one-dimensional array. 
 Below is the basic syntax for declaring a string.
 <br>
 ```char str_name[size];```
 
-In the above syntax, str_name is any name given to the string variable and size is used to define the length of the string, i.e the number of characters strings will store. 
-Please keep in mind that there is an extra terminating character which is the Null character ('\0') used to indicate the termination of string which differs strings from normal character arrays.
+In the above syntax, *str_name* is any name given to the string variable and size is used to define the length of the string, $i.e.,$ the number of characters strings will store. 
+Please keep in mind that there is an extra terminating character which is the Null character '\0' used to indicate the termination of string which differs strings from normal character arrays.
 
-**Initializing a String:** 
+**Initializing a String:** <br>
 A string can be initialized in different ways. We will explain this with the help of an example. 
-Below is an example to declare a string with the name as str and initialize it with “YahyaHussain”.
+Below is an example to declare a string with the name as *str* and initialize it with *"YahyaHussain"*.
 <br>
 ```
 1. char str[] = "YahyaHussain";
@@ -33,9 +33,9 @@ Below is an example to declare a string with the name as str and initialize it w
 4. char str[13] = {'Y','a','h','y','a','H','u','s','s','a','i','n','\0'};
 ```
 
-**Printing a string array:** 
+**Printing a string array:** <br>
 Unlike arrays we do not need to print a string, character by character. 
-The C/C++ language does not provide an inbuilt data type for strings but it has an access specifier “%s” which can be used to directly print and read strings.
+The C/C++ language does not provide an inbuilt data type for strings but it has an access specifier *%s* which can be used to directly print and read strings.
 
 ```c
 // C/C++ Program to illustrate strings
@@ -51,14 +51,12 @@ int main()  {
 }
 ```
 
-**Output:**
-<br>
+**Output:** <br>
 ```YahyaHussain```
 
-**Passing strings to function:** 
+**Passing strings to function:**  <br>
 As strings are character arrays, so we can pass strings to function in the same way we pass an array to a function. 
-Below is a sample program to do this:
-<br>
+Below is a sample program to do this: <br>
 ```c
 // C/C++ program to illustrate how to pass strings to function
 #include <bits/stdc++.h>
@@ -78,8 +76,7 @@ int main()  {
 }
 ```
 
-**Output:**
-<br>
+**Output:** <br>
 ```String is: YahyaHussain```
 
 ### std::string Class in C++
@@ -88,20 +85,18 @@ C++ has in its definition a way to represent the sequence of characters as an ob
 This class is called ```std::string```. 
 The String class stores the characters as a sequence of bytes with functionality of allowing access to single byte character.
 
-**string Class vs Character array:**
-<br>
+**string Class vs Character array:** <br>
 * A character array is simply an array of characters can terminated by a null character. A string is a class which defines objects that be represented as stream of characters.
 * Size of the character array has to allocated statically, more memory cannot be allocated at run time if required. Unused allocated memory is wasted in case of character array.
 In case of strings, memory is allocated dynamically. More memory can be allocated at run time on demand. As no memory is preallocated, no memory is wasted.
 * Implementation of character array is faster than ```std:: string```. Strings are slower when compared to implementation than character array.
 * Character array does not offer much inbuilt functions to manipulate strings. String class defines a number of functionalities which allow manifold operations on strings.
 
-**Declaration Syntax:** 
-Declaring string using string class is simple and can be done using the string keyword as shown below.
-<br>
+**Declaration Syntax:** <br>
+Declaring string using string class is simple and can be done using the string keyword as shown below. <br>
 ```string string_name = "Sample String";```
 
-**Sample Program**
+**Sample Program** <br>
 ```cpp
 // C++ program to illustrate strings
 #include <bits/stdc++.h>
@@ -117,17 +112,13 @@ int main()  {
   return 0;
 }
 ```
-**Output:**
-<br>
+**Output:** <br>
 ```YahyaHussain```
 
 ## Strings in Java
-String is a sequence of characters. In java, objects of String are immutable which means a constant and cannot be changed once created.
-<br>
-**Creating a String**
-<br>
-There are two ways to create string in Java:
-<br>
+String is a sequence of characters. In java, objects of String are immutable which means a constant and cannot be changed once created. <br>
+**Creating a String** <br>
+There are two ways to create string in Java: <br>
 1. **String literal**
 ```String s = "YahyaHussain";```
 1. **Using *new* keyword**
@@ -138,9 +129,9 @@ There are two ways to create string in Java:
 ```"YahyaHussain".length();  // returns 12```
 * **Char charAt(int i):** Returns the character at ith index.
 ```"YahyaHussain".charAt(3); // returns  'y'```
-* **String substring (int i):** Return the substring from the ith  index character to end.
+* **String substring (int i):** Return the substring from the $i^{th}$  index character to end.
 ```"YahyaHussain".substring(5); // returns "Hussain"```
-* **String substring (int i, int j):** Returns the substring from i to j-1 index.
+* **String substring (int i, int j):** Returns the substring from $i$ to $j-1$ index.
 ```"YahyaHussain".substring(0, 5); // returns "Yahya"```
 * **String concat( String str):** Concatenates specified string to the end of this string.
 ```
@@ -173,7 +164,7 @@ Boolean out = "Yahya".equals("yahya"); // returns false
 Boolean out= “Geeks”.equalsIgnoreCase(“Geeks”); // returns true
 Boolean out = “Geeks”.equalsIgnoreCase(“geeks”); // returns true
 ```
-* **int compareTo( String anotherString):** Compares two string lexicographically.
+* **int compareTo(String anotherString):** Compares two string lexicographically.
 ```
 int out = s1.compareTo(s2);  // where s1 ans s2 are strings to be compared
 
@@ -184,7 +175,7 @@ int out = s1.compareTo(s2);  // where s1 ans s2 are strings to be compared
   out > 0   // s1 comes after s2.
 */
 ```
-* **int compareToIgnoreCase( String anotherString):** Compares two string lexicographically, ignoring case considerations.
+* **int compareToIgnoreCase(String anotherString):** Compares two string lexicographically, ignoring case considerations.
 ```
 int out = s1.compareToIgnoreCase(s2); // where s1 ans s2 are strings to be compared
 
@@ -211,7 +202,7 @@ String word2 = word1.toUpperCase(); // returns “HELLO”
 String word1 = " Learn Share Learn ";
 String word2 = word1.trim(); // returns “Learn Share Learn”
 ```
-* **String replace (char oldChar, char newChar):** Returns new string by replacing all occurrences of oldChar with newChar.
+* **String replace (char oldChar, char newChar):** Returns new string by replacing all occurrences of $oldChar$ with $newChar$.
 ```
 String s1 = "Ilite";
 String s2 = "Ilite".replace('I' ,'E'); // returns "Elite"
@@ -286,8 +277,7 @@ class Test
     }
 }
 ```
-*Output:*
-<br>
+*Output:* <br>
 ```
 String length = 12
 Character at 3rd position = y
