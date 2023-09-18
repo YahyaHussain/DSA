@@ -13,7 +13,7 @@ Data Structures and Algorithms
 ## Strings
 * [Theory](https://github.com/YahyaHussain/DSA/blob/main/Strings/README.md)
 * [Introduction to Strings](https://github.com/YahyaHussain/DSA/tree/main/Strings#introduction-to-strings)
-* [Stings in C/C++](https://github.com/YahyaHussain/DSA/tree/main/Strings#strings-in-cc)
+* [Strings in C/C++](https://github.com/YahyaHussain/DSA/tree/main/Strings#strings-in-cc)
 * [String class in C++](https://github.com/YahyaHussain/DSA/tree/main/Strings#stdstring-class-in-c)
 * [Strings in Java](https://github.com/YahyaHussain/DSA/tree/main/Strings#strings-in-java)
 * [String Methods in java](https://github.com/YahyaHussain/DSA/tree/main/Strings#string-methods)
