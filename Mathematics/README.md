@@ -116,8 +116,8 @@ $n$ &rarr; Number of terms
 
 **General Formulas to solve problems related to Arithmetic Progressions:** If $a$ is the first term and $d$ is the common difference:
 * $n^{th}$ term of an AP = $a + (n-1)d$.
-* **Arithmetic Mean** = ${Sum Of All Terms In The AP \over Number Of Terms In The AP}$.
-* **Sum of $n$ terms** of an AP = $\frac{n}{2}(first term + last term) = \frac{n}{2}[2a + (n - 1)d]$.
+* **Arithmetic Mean** = ${Sum \space Of \space All \space Terms \space In \space The \space AP \over Number \space Of \space Terms \space In \space The \space AP}$.
+* **Sum of $n$ terms** of an AP = $\frac{n}{2}(first \space term + last \space term) = \frac{n}{2}[2a + (n - 1)d]$.
 
 ### Geometric Progression
 
