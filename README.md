@@ -11,7 +11,9 @@ Data Structures and Algorithms
 * [Quadratic Equations](https://github.com/YahyaHussain/DSA/blob/main/Mathematics/README.md#quadratic-equations)
 
 ## Strings
-* [Theory](https://github.com/YahyaHussain/DSA/blob/main/Strings/theory.md)
-* [Introduction to Strings](https://github.com/YahyaHussain/DSA/blob/main/Strings/theory.md#introduction-to-strings)
-* [Stings in C/C++](https://github.com/YahyaHussain/DSA/blob/main/Strings/theory.md#strings-in-cc)
-* [Strings in Java](https://github.com/YahyaHussain/DSA/blob/main/Strings/theory.md#strings-in-java)
+* [Theory](https://github.com/YahyaHussain/DSA/blob/main/Strings/README.md)
+* [Introduction to Strings](https://github.com/YahyaHussain/DSA/tree/main/Strings#introduction-to-strings)
+* [Stings in C/C++](https://github.com/YahyaHussain/DSA/tree/main/Strings#strings-in-cc)
+* [String class in C++](https://github.com/YahyaHussain/DSA/tree/main/Strings#stdstring-class-in-c)
+* [Strings in Java](https://github.com/YahyaHussain/DSA/tree/main/Strings#strings-in-java)
+* [String Methods in java](https://github.com/YahyaHussain/DSA/tree/main/Strings#string-methods)
