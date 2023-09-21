@@ -1,4 +1,4 @@
- Bit Operations
+# Bit Operations
 
 ## Bitwise Algorithms Basics 
 The Bitwise Algorithms are used to perform operations at bit-level or to manipulate bits in different ways. 
