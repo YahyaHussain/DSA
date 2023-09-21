@@ -252,7 +252,7 @@ int maxAND (int arr[], int n)  {
   count = checkBit(res | (1 << bit), arr, n);
 
   // if count >= 2 set particular bit in result
-  if ( count >= 2 )
+  if (count >= 2)
     res |= (1 << bit);
   }
 
