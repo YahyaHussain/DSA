@@ -12,6 +12,19 @@ Data Structures and Algorithms
 * [Geometric Progression](https://github.com/YahyaHussain/DSA/tree/main/Mathematics#geometric-progression)
 * [Quadratic Equations](https://github.com/YahyaHussain/DSA/tree/main/Mathematics#quadratic-equations)
 
+## Bit Operations
+* [Theory](https://github.com/YahyaHussain/DSA/blob/main/Bit%20Operations/README.md)
+* [Bit Operations](https://github.com/YahyaHussain/DSA/tree/main/Bit%20Operations#bit-operations)
+* [Bitwise Algorithms Basics](https://github.com/YahyaHussain/DSA/tree/main/Bit%20Operations#bitwise-algorithms-basics)
+* [Bitwise Operators](https://github.com/YahyaHussain/DSA/tree/main/Bit%20Operations#bitwise-operators)
+* [Facts about Bitwise Operators](https://github.com/YahyaHussain/DSA/tree/main/Bit%20Operations#important-facts-about-bitwise-operators)
+* [Bit Algorithms](https://github.com/YahyaHussain/DSA/tree/main/Bit%20Operations#bit-algorithms--important-tactics)
+* [Problems on Bit Manipulation](https://github.com/YahyaHussain/DSA/tree/main/Bit%20Operations#basic-problems-on-bit-manipulation)
+    * [Problem 1](https://github.com/YahyaHussain/DSA/tree/main/Bit%20Operations#problem-1)
+    * [Problem 2](https://github.com/YahyaHussain/DSA/tree/main/Bit%20Operations#problem-2)
+    * [Problem 3](https://github.com/YahyaHussain/DSA/tree/main/Bit%20Operations#problem-3)
+* [Maximum AND Value](https://github.com/YahyaHussain/DSA/tree/main/Bit%20Operations#maximum-and-value--explanation)
+
 ## Strings
 * [Theory](https://github.com/YahyaHussain/DSA/blob/main/Strings/README.md)
 * [Introduction to Strings](https://github.com/YahyaHussain/DSA/tree/main/Strings#introduction-to-strings)
