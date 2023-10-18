@@ -13,7 +13,7 @@ Data Structures and Algorithms
 * [Quadratic Equations](https://github.com/YahyaHussain/DSA/tree/main/Mathematics#quadratic-equations)
 
 ## Bit Operations
-* [Theory](https://github.com/YahyaHussain/DSA/blob/main/Bit%20Operations/README.md)
+* [Theory](https://github.com/YahyaHussain/DSA/tree/main/Bit%20Operations#readme)
 * [Bit Operations](https://github.com/YahyaHussain/DSA/tree/main/Bit%20Operations#bit-operations)
 * [Bitwise Algorithms Basics](https://github.com/YahyaHussain/DSA/tree/main/Bit%20Operations#bitwise-algorithms-basics)
 * [Bitwise Operators](https://github.com/YahyaHussain/DSA/tree/main/Bit%20Operations#bitwise-operators)
@@ -23,6 +23,7 @@ Data Structures and Algorithms
     * [Problem 1](https://github.com/YahyaHussain/DSA/tree/main/Bit%20Operations#problem-1)
     * [Problem 2](https://github.com/YahyaHussain/DSA/tree/main/Bit%20Operations#problem-2)
     * [Problem 3](https://github.com/YahyaHussain/DSA/tree/main/Bit%20Operations#problem-3)
+    * [Problem 4](https://github.com/YahyaHussain/DSA/tree/main/Bit%20Operations#problem-4)
 * [Maximum AND Value](https://github.com/YahyaHussain/DSA/tree/main/Bit%20Operations#maximum-and-value--explanation)
 
 ## Strings
