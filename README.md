@@ -2,7 +2,7 @@
 Data Structures and Algorithms
 
 ## Math
-* [Theory](https://github.com/YahyaHussain/DSA/blob/main/Mathematics/README.md)
+* [Theory](Mathematics/README.md)
 * [Basic Math Concepts](https://github.com/YahyaHussain/DSA/tree/main/Mathematics#basic-math-concepts)
 * [Finding number of Digits in a Number](https://github.com/YahyaHussain/DSA/tree/main/Mathematics#finding-number-of-digits-in-a-number)
   * [Solution 1](https://github.com/YahyaHussain/DSA/tree/main/Mathematics#solution-1)
@@ -30,7 +30,7 @@ Data Structures and Algorithms
   * [Modular Inverse](https://github.com/YahyaHussain/DSA/tree/main/Mathematics#modular-inverse)
 
 ## Bit Operations
-* [Theory](https://github.com/YahyaHussain/DSA/tree/main/Bit%20Operations)
+* [Theory](Bit Operations/README.md)
 * [Bit Operations](https://github.com/YahyaHussain/DSA/blob/main/Bit%20Operations/README.md#bit-operations)
 * [Bitwise Algorithms Basics](https://github.com/YahyaHussain/DSA/blob/main/Bit%20Operations/README.md#bitwise-algorithms-basics)
 * [Bitwise Operators](https://github.com/YahyaHussain/DSA/blob/main/Bit%20Operations/README.md#bitwise-operators)
@@ -44,10 +44,10 @@ Data Structures and Algorithms
 * [Maximum AND Value](https://github.com/YahyaHussain/DSA/blob/main/Bit%20Operations/README.md#maximum-and-value--explanation)
 
 ## Recursion
-* [dsf](Recursion/README.md)
+* [Theory](Recursion/README.md)
 
 ## Strings
-* [Theory](https://github.com/YahyaHussain/DSA/blob/main/Strings/README.md)
+* [Theory](Strings/README.md)
 * [Introduction to Strings](https://github.com/YahyaHussain/DSA/tree/main/Strings#introduction-to-strings)
 * [Strings in C/C++](https://github.com/YahyaHussain/DSA/tree/main/Strings#strings-in-cc)
 * [String class in C++](https://github.com/YahyaHussain/DSA/tree/main/Strings#stdstring-class-in-c)
