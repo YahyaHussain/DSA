@@ -72,7 +72,7 @@ Let's look at some of the useful tactics of the Bitwise Operators which can be h
    x = x << 1;
    ```
    **Logic:** When we do arithmetic left shift, every bit is shifted to left and blank position is substituted with $0$.
-   Since every bit is a power of $2$, with each shift we are increasing the value of each bit by a factor of $2$ which is equivalent to multiplication of $x$ by $2$.
+   Since every bit is a power of $2$, with each shift we are increasing the value of each bit by a factor of $2$ which is equivalent to multiplication of $x$ by $2$. <br>
    **Example:**
    ```c
    x = 18(00010010)
@@ -91,7 +91,7 @@ Let's look at some of the useful tactics of the Bitwise Operators which can be h
    **Logic:** We right shift $x$ repeatedly until it becomes $0$, meanwhile we keep count on the shift operation. This count value is the $\log_{2}{x}$.
 
 1. **Flipping the bits of a number:** <br>
-   It can be done by a simple way, just simply subtract the number from the value obtained when all the bits are equal to $1$.
+   It can be done by a simple way, just simply subtract the number from the value obtained when all the bits are equal to $1$. <br>
    **For example:**
    ```
    Number : Given Number
@@ -200,7 +200,7 @@ Number Binary-Repr  XOR-from-1-to-n
 ```
 
 ### Problem 4
-Given two arrays of numbers $a_1, a_2, a_3, ... , a_n$ and $b_1, b_2, b_3, ... , b_n$ where each number is $0$ or $1$. Find the largest $span(i, j)$ such that $a_i + a_{i+1} + ... + a_j = b_i + b_{i+1} + ... + b_j$ or report that there is not such span.
+Given two arrays of numbers $a_1, a_2, a_3, ... , a_n$ and $b_1, b_2, b_3, ... , b_n$ where each number is $0$ or $1$. Find the largest $span(i, j)$ such that $a_i + a_{i+1} + ... + a_j = b_i + b_{i+1} + ... + b_j$ or report that there is not such span. <br>
 **Solution** <br>
 The problem can be solved in $\theta(n)$ time and space.
 
