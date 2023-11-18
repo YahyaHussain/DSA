@@ -30,18 +30,21 @@ Data Structures and Algorithms
   * [Modular Inverse](https://github.com/YahyaHussain/DSA/tree/main/Mathematics#modular-inverse)
 
 ## Bit Operations
-* [Theory](https://github.com/YahyaHussain/DSA/tree/main/Bit%20Operations#readme)
-* [Bit Operations](https://github.com/YahyaHussain/DSA/tree/main/Bit%20Operations#bit-operations)
-* [Bitwise Algorithms Basics](https://github.com/YahyaHussain/DSA/tree/main/Bit%20Operations#bitwise-algorithms-basics)
-* [Bitwise Operators](https://github.com/YahyaHussain/DSA/tree/main/Bit%20Operations#bitwise-operators)
-* [Facts about Bitwise Operators](https://github.com/YahyaHussain/DSA/tree/main/Bit%20Operations#important-facts-about-bitwise-operators)
-* [Bit Algorithms](https://github.com/YahyaHussain/DSA/tree/main/Bit%20Operations#bit-algorithms--important-tactics)
-* [Problems on Bit Manipulation](https://github.com/YahyaHussain/DSA/tree/main/Bit%20Operations#basic-problems-on-bit-manipulation)
-    * [Problem 1](https://github.com/YahyaHussain/DSA/tree/main/Bit%20Operations#problem-1)
-    * [Problem 2](https://github.com/YahyaHussain/DSA/tree/main/Bit%20Operations#problem-2)
-    * [Problem 3](https://github.com/YahyaHussain/DSA/tree/main/Bit%20Operations#problem-3)
-    * [Problem 4](https://github.com/YahyaHussain/DSA/tree/main/Bit%20Operations#problem-4)
-* [Maximum AND Value](https://github.com/YahyaHussain/DSA/tree/main/Bit%20Operations#maximum-and-value--explanation)
+* [Theory](https://github.com/YahyaHussain/DSA/tree/main/Bit%20Operations)
+* [Bit Operations](https://github.com/YahyaHussain/DSA/blob/main/Bit%20Operations/README.md#bit-operations)
+* [Bitwise Algorithms Basics](https://github.com/YahyaHussain/DSA/blob/main/Bit%20Operations/README.md#bitwise-algorithms-basics)
+* [Bitwise Operators](https://github.com/YahyaHussain/DSA/blob/main/Bit%20Operations/README.md#bitwise-operators)
+  * [Facts about Bitwise Operators](https://github.com/YahyaHussain/DSA/blob/main/Bit%20Operations/README.md#important-facts-about-bitwise-operators)
+* [Bit Algorithms](https://github.com/YahyaHussain/DSA/blob/main/Bit%20Operations/README.md#bit-algorithms--important-tactics)
+* [Problems on Bit Manipulation](https://github.com/YahyaHussain/DSA/blob/main/Bit%20Operations/README.md#basic-problems-on-bit-manipulation)
+    * [Problem 1](https://github.com/YahyaHussain/DSA/blob/main/Bit%20Operations/README.md#problem-1)
+    * [Problem 2](https://github.com/YahyaHussain/DSA/blob/main/Bit%20Operations/README.md#problem-2)
+    * [Problem 3](https://github.com/YahyaHussain/DSA/blob/main/Bit%20Operations/README.md#problem-3)
+    * [Problem 4](https://github.com/YahyaHussain/DSA/blob/main/Bit%20Operations/README.md#problem-4)
+* [Maximum AND Value](https://github.com/YahyaHussain/DSA/blob/main/Bit%20Operations/README.md#maximum-and-value--explanation)
+
+## Recursion
+* [](Recursion/README.md)
 
 ## Strings
 * [Theory](https://github.com/YahyaHussain/DSA/blob/main/Strings/README.md)
