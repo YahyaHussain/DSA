@@ -30,7 +30,7 @@ Data Structures and Algorithms
   * [Modular Inverse](https://github.com/YahyaHussain/DSA/tree/main/Mathematics#modular-inverse)
 
 ## Bit Operations
-* [Theory](Bit Operations/README.md)
+* [Theory](https://github.com/YahyaHussain/DSA/blob/main/Bit%20Operations/README.md)
 * [Bit Operations](https://github.com/YahyaHussain/DSA/blob/main/Bit%20Operations/README.md#bit-operations)
 * [Bitwise Algorithms Basics](https://github.com/YahyaHussain/DSA/blob/main/Bit%20Operations/README.md#bitwise-algorithms-basics)
 * [Bitwise Operators](https://github.com/YahyaHussain/DSA/blob/main/Bit%20Operations/README.md#bitwise-operators)
@@ -45,11 +45,24 @@ Data Structures and Algorithms
 
 ## Recursion
 * [Theory](Recursion/README.md)
+* [Recursion](https://github.com/YahyaHussain/DSA/blob/main/Recursion/README.md#recursion)
+  * [Recursion Basics](https://github.com/YahyaHussain/DSA/blob/main/Recursion/README.md#recursion-basics)
+  * [Recursion?](https://github.com/YahyaHussain/DSA/blob/main/Recursion/README.md#recursion-1)
+  * [Base condition in recursion](https://github.com/YahyaHussain/DSA/blob/main/Recursion/README.md#base-condition-in-recursion)
+  * [How a particular problem is solved using recursion?](https://github.com/YahyaHussain/DSA/blob/main/Recursion/README.md#how-a-particular-problem-is-solved-using-recursion)
+  * [How memory is allocated to different function calls in recursion?](https://github.com/YahyaHussain/DSA/blob/main/Recursion/README.md#how-memory-is-allocated-to-different-function-calls-in-recursion)
+* [Basic Problems on Recursion](https://github.com/YahyaHussain/DSA/blob/main/Recursion/README.md#basic-problems-on-recursion)
+  * [Problem 1](https://github.com/YahyaHussain/DSA/blob/main/Recursion/README.md#problem-1)
+  * [Problem 2](https://github.com/YahyaHussain/DSA/blob/main/Recursion/README.md#problem-2)
+* [Tail Recursion](https://github.com/YahyaHussain/DSA/blob/main/Recursion/README.md#tail-recursion)
+  * [Subset Generation Problem](https://github.com/YahyaHussain/DSA/blob/main/Recursion/README.md#subset-generation-problem)
+  * [Joesphus Problem](https://github.com/YahyaHussain/DSA/blob/main/Recursion/README.md#joesphus-problem)
+  * [Permutations of a string](https://github.com/YahyaHussain/DSA/blob/main/Recursion/README.md#permutations-of-a-string)
 
 ## Strings
 * [Theory](Strings/README.md)
-* [Introduction to Strings](https://github.com/YahyaHussain/DSA/tree/main/Strings#introduction-to-strings)
-* [Strings in C/C++](https://github.com/YahyaHussain/DSA/tree/main/Strings#strings-in-cc)
-* [String class in C++](https://github.com/YahyaHussain/DSA/tree/main/Strings#stdstring-class-in-c)
-* [Strings in Java](https://github.com/YahyaHussain/DSA/tree/main/Strings#strings-in-java)
-* [String Methods in java](https://github.com/YahyaHussain/DSA/tree/main/Strings#string-methods)
+* [Introduction to Strings](https://github.com/YahyaHussain/DSA/blob/main/Strings/README.md#introduction-to-strings)
+* [Strings in C/C++](https://github.com/YahyaHussain/DSA/blob/main/Strings/README.md#strings-in-cc)
+  * [String class in C++](https://github.com/YahyaHussain/DSA/blob/main/Strings/README.md#stdstring-class-in-c)
+* [Strings in Java](https://github.com/YahyaHussain/DSA/blob/main/Strings/README.md#strings-in-java)
+  * [String Methods in java](https://github.com/YahyaHussain/DSA/blob/main/Strings/README.md#string-methods)
