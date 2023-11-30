@@ -53,7 +53,7 @@ Let's look at some of the useful tactics of the Bitwise Operators which can be h
 1. **Checking if bit at $n^{th}$ position is set or unset:** <br>
    It is quite easily doable using $AND$ operator.
    * Left shift $1$ to given position and then $AND$ ( & ).
-   * If the result of the $AND$ operation is $1$ then the bit at $n*{th}$ position is set otherwise it is unset.
+   * If the result of the $AND$ operation is $1$ then the bit at $n{th}$ position is set otherwise it is unset.
 
 1. **Divide by 2:**
    ```c
