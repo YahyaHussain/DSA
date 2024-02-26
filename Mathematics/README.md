@@ -475,7 +475,7 @@ Therefore,
 ax ≡ 1 (mod M) 
 ```
 
-So the 'x' that we can find using Extended Euclid Algorithm is modulo inverse of $'a'$.
+So the $x$ that we can find using Extended Euclid Algorithm is modulo inverse of $a$.
 
 **Fermat Little Theorem:** The Fermat’s little theorem states that if $M$ is a prime number, then for any integer $a$, the number $a^M – a$ is an integer multiple of $M$.
 
