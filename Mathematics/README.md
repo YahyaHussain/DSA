@@ -137,7 +137,7 @@ A sequence of numbers is said to be in a **Geometric progression** if the ratio 
 
 **Formula of $n^{th}$ term of a Geometric Progression:** <br>
 If $a$ is the first term and $r$ is the common ratio. Thus, the explicit formula is: <br>
-$$a_n = a_1 * r^{n - 1}$$
+$$a_n = a_1r^{n - 1}$$
 $a_n$ &rarr; General term <br>
 $a_1$ &rarr; First term <br>
 $r$ &rarr; Common ratio
